@@ -1,0 +1,13 @@
+clock {
+  font-size: 1.5rem;
+  text-align: center;
+  margin: 1rem 0;
+  width: 100%; /* Make the clock take up the entire width of its parent */
+}
+
+h1,
+h2 {
+  text-align: center;
+  width: 100%; /* Make the clock take up the entire width of its parent */
+  margin-top: 40px;
+}
